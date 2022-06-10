@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingYourCode
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on github
+- 🤝 I’m looking to collaborate on github
 - 📫 How to reach me :
  via email - sachinjames1013@gmail.com
 
